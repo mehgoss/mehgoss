@@ -63,7 +63,7 @@ I believe Africa needs more dreamers who code and coders who dream. Whether it�
 
 ## 🔗 Let’s Connect
 
-- 📨 Email: `viincci.dev[at]proton.me`
+- 📨 Email: *Reducted*
 - 🌐 GitHub: [github.com/viincci](https://github.com/viincci)
 - 📱 WhatsApp Bot: *Coming Soon*
 - 🧠 Blog & Research: *Coming Soon*
